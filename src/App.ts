@@ -18,6 +18,3 @@ import {Board} from "./Board"
   const school = extractor(schoolContent)
   console.log(school)
 })()
-
-
-
